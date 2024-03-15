@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cytoFrank
+- 👋 Hi, I’m Frank at CytoHub.com
 - 👀 I’m interested in Organoid and Human Cell
 - 🌱 I’m currently learning OrganoidML
 - 💞️ I’m looking to collaborate on Organoid
